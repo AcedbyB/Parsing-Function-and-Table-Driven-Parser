@@ -1,6 +1,5 @@
-Bao Tran - btran8 (Submitter)
-Duy Pham - dpham4
-Hung Tran - htranngo
+Bao Tran
+
 
 Build project: run command "make rexp"
 Run project: build and then run ./rexp
