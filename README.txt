@@ -1,5 +1,4 @@
-Bao Tran
-
+Parsing Function and Table Driven Parser
 
 Build project: run command "make rexp"
 Run project: build and then run ./rexp
